@@ -8,5 +8,4 @@ Contributing Authors: Adrian Khor Yung Kian, Jasmine Chang Wee Nie, Adrian Tai K
 
 This repository consists of the source code for Assignment 2 of ICT1103 Structured Programming subject.
 
-Last updated: 26/10/2014 00:07
-Created by: Adrian Khor
+Last updated: 26/10/2014 00:07/AK
