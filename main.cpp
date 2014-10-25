@@ -60,7 +60,7 @@ void menu_CompanyTitle(string cname)
 void menu_MainMenu()
 {
 	cout << "\t\t" << "Program Main Menu: " << endl;
-	cout << "\t\t" << "(Type the corresponding number to perform operation.)" << endl;
+	cout << "\t\t" << "(Type the corresponding number to perform operation)" << endl;
 	cout << endl;
 
 	cout << "\t\t" << "1. " << endl;
